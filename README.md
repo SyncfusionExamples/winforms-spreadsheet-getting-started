@@ -1,4 +1,4 @@
-![syncfusion WinForms Spreadsheet](https://cdn.syncfusion.com/visual-studio-market/winforms/banner/spreadsheet.png "WinForms Spreadsheet Control")
+# winforms-spreadsheet-getting-started
 
 The [WinForms Spreadsheet Control](https://www.syncfusion.com/winforms-ui-controls/spreadsheet?utm_source=github&utm_medium=listing&utm_campaign=winforms-spreadsheet-github-samples) is an Excel-inspired control that allows you to create, edit, view, and format Microsoft Excel files without having Excel installed. It provides an integrated ribbon to cover any possible business scenario and easily maximize it. In addition, it supports built-in calculation engine with more than 400+ of the most widely used formulas. It is built with [.NET Excel library](https://www.syncfusion.com/excel-framework/net?utm_source=github&utm_medium=listing&utm_campaign=winforms-spreadsheet-github-samples)(Essential XlsIO), which features a full-fledged object model similar to the Microsoft Office Automation libraries.
 
