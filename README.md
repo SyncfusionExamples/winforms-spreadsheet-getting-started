@@ -131,7 +131,7 @@ Today we provide 1700+ controls and frameworks for web ([Blazor](https://www.syn
 <hr style="height:0.3px;border:none;color:lightgrey;background-color:lightgrey;" />
 
 <p align="center">
-  <a href="mailto:sales@syncfusion.com?Subject=Syncfusion WinForms Spreadsheet- GitHub" target="_top">sales@syncfusion.com</a>  | <a href="https://www.syncfusion.com?utm_source=github&utm_medium=listing&utm_medium=listing&utm_campaign=winforms-spreadsheet-github-samples">www.syncfusion.com</a>  | Toll Free: 1-888-9 DOTNET <br>
+  <a href="mailto:sales@syncfusion.com?Subject=Syncfusion WinForms Spreadsheet - GitHub" target="_top">sales@syncfusion.com</a>  | <a href="https://www.syncfusion.com?utm_source=github&utm_medium=listing&utm_medium=listing&utm_campaign=winforms-spreadsheet-github-samples">www.syncfusion.com</a>  | Toll Free: 1-888-9 DOTNET <br>
 </p>
 
 
